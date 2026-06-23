@@ -25,12 +25,6 @@ No router. No internet. No central server.
 
 ---
 
-### DevSignal *(building)*
-
-Batch GitHub candidate intelligence engine for hiring teams.
-
-Processes developer profiles and returns ranked reports with reasoning per candidate.
-
 ## Interests
 
 * Backend engineering
